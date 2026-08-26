@@ -596,8 +596,8 @@ The project serves as a strong foundation for further work in:
 CSE (AI & ML) Student  
 Aspiring Machine Learning Engineer
 
-GitHub: Add your GitHub profile link here  
-LinkedIn: Add your LinkedIn profile link here
+GitHub: https://github.com/Akshayshetty742
+LinkedIn: https://www.linkedin.com/in/akshay-shetty-618b63269
 
 ---
 
