@@ -459,9 +459,8 @@ Example transaction characteristics:
 
 # 📸 Application Screenshots
 
-Add your project screenshots inside a `screenshots` folder.
 
-Suggested screenshots:
+
 
 ### 🖥️ Main Dashboard
 
