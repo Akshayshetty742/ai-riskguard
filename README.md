@@ -460,6 +460,19 @@ Example transaction characteristics:
 # 📸 Application Screenshots
 
 
+### 🏠 Home Page
+![Home Page](screenshots/home.png.jpeg)
+
+### 🔍 Fraud Risk Prediction
+![Prediction Page](screenshots/prediction.png.jpeg)
+
+### 🟢 Low Risk Prediction
+![Low Risk](screenshots/low-risk.png.jpeg)
+
+### 🔴 High Risk Prediction
+![High Risk](screenshots/high-risk.png.jpeg)
+
+
 
 
 ### 🖥️ Main Dashboard
